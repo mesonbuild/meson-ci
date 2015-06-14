@@ -1,0 +1,12 @@
+[job_builder]
+ignore_cache=True
+keep_descriptions=False
+
+[jenkins]
+user=USER
+password=PASSWORD
+url=http://ci.mesonbuild.com
+query_plugins_info=False
+
+[hipchat]
+authtoken=dummy
