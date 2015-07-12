@@ -56,5 +56,3 @@
       - junit:
           results: meson-test-run.xml
       - github-notifier
-      - email:
-          recipients: i.gnatenko.brain@gmail.com jpakkane@gmail.com
